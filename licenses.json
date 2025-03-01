@@ -1,7 +1,23 @@
 {
     "valid_licenses": [
-        "CL-82911",
-        "DEINE-LIZENZ-2",
-        "DEINE-LIZENZ-3"
+        {
+            "license": "CL-82911",
+            "discord_id": "1240655013873717319", 
+            "blacklisted": false,
+            "reason": ""
+        },
+        {
+            "license": "DEINE-LIZENZ-2",
+            "discord_id": "987654321098765432",
+            "blacklisted": true,
+            "reason": "Violation of rules"
+        },
+        {
+            "license": "DEINE-LIZENZ-3",
+            "discord_id": "112233445566778899",
+            "blacklisted": false,
+            "reason": ""
+        }
     ]
 }
+
